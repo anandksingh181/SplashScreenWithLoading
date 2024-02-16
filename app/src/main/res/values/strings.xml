@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreenWithLoading</string>
+    <string name="design_by_anand">Design By Anand</string>
+    <string name="hello_anand">Hello Anand!</string>
+</resources>
